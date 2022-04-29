@@ -1,5 +1,4 @@
 # ICS2O-Assignment4-CSharp
-# ICS2O-Unit5-02-CSharp
 
 [![GitHub's Super Linter](https://github.com/zaida-hammel/ICS2O-Assignment4-CSharp/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/zaida-hammel1/ICS2O-Assignment4-CSharp/actions)
 
